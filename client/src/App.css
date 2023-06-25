@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image: url('./image/videogame.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 8px;
 }
 
 .App-logo {
